@@ -1,0 +1,71 @@
+# Unreal Engine Generated Files
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.*
+*.xcodeproj
+*.xcworkspace
+*.idea/
+*.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Build Files
+Build/
+
+# Config Files (Optional)
+# Uncomment below if you want to ignore local configurations
+# Config/DefaultEditor.ini
+# Config/DefaultEditorPerProjectUserSettings.ini
+
+# Compiled Assets
+*.generated.*
+*.bin
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# Logs and Temp Files
+*.log
+*.temp
+
+# Cache Files
+*.pidb
+*.VC.db
+*.VC.opendb
+
+# Debug Files
+*.ipdb
+*.iobj
+
+# User-specific Files
+*.userprefs
+*.user
+*.opensdf
+*.sdf
+*.sqlite
+
+# MacOS Specific
+.DS_Store
+
+# Windows Specific
+Thumbs.db
+
+# Unreal Engine Plugins
+# Ignore the Plugins folder unless custom plugins are needed
+# Plugins/*/
+
+# Optional: Ignoring Additional Folders
+# Uncomment if you don't need to track specific folders or files
+# Documentation/
+# Extras/
+# Samples/
+# Tests/

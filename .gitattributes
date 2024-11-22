@@ -1,0 +1,4 @@
+Content/Audio/* filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/* filter=lfs diff=lfs merge=lfs -text
+Content/Characters/* filter=lfs diff=lfs merge=lfs -text
+Content/Characters/Paragon/**/*.uasset filter=lfs diff=lfs merge=lfs -text
